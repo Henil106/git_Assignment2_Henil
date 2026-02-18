@@ -1,2 +1,6 @@
 This is my first Git Assignment.
+<<<<<<< HEAD
 This is a local line.
+=======
+This is a local line.
+>>>>>>> af01dd1ea027ddd10365b6c1bdc476c6fec3a227
