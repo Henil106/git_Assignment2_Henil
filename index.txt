@@ -1,2 +1,2 @@
 This is my first Git Assignment.
-This is a local line
+This is a local line.
